@@ -1,7 +1,7 @@
 package exercícios;
 
 public class Exe1 {        
-    public static void troca(){
+    public static void main(String[]args){
         int a = 10;
         int b = 20;
         int aux = a;
@@ -9,9 +9,9 @@ public class Exe1 {
         b = aux;
         System.out.println("O valor de A: "+a+"\nO valor de B: "+b);
     }
-    public static void main(String[]args){
-        Exe1 obj1 = new Exe1(); // Instanciando o objeto
-        obj1.troca(); //Chamando o método através do objeto instanciado 
-    }
+    //public static void main(String[]args){
+        //Exe1 obj1 = new Exe1(); // Instanciando o objeto
+        //obj1.troca(); //Chamando o método através do objeto instanciado 
+    //}
 
 }
