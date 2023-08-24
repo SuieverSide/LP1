@@ -1,4 +1,4 @@
-package exercícios;
+package Exercícios;
 import java.util.Scanner;
 public class Exe5 {
     public static int antecessor(int valor){
