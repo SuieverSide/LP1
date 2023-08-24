@@ -1,4 +1,4 @@
-package exercícios;
+package Exercício;
 
 public class Livro {
     private int id;
