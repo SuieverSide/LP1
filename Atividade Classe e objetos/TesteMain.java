@@ -1,5 +1,3 @@
-package org.example;
-
 public class TesteMain {
     public static void main(String[] args){
         tracejado();

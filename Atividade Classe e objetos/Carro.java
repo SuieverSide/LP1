@@ -1,7 +1,3 @@
-package org.example;
-/*
-* @author Jhony Souza
-* */
 public class Carro {
     /*ATRIBUTOS DA CLASSE*/
     private double velocidadeAtual;

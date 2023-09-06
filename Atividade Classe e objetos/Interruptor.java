@@ -1,5 +1,3 @@
-package org.example;
-
 public class Interruptor {
     private String localizacao;
     private boolean ligado;

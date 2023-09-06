@@ -1,5 +1,3 @@
-package org.example;
-
 public class Computador {
     private String marca;
     private String modelo;
